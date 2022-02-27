@@ -1,0 +1,64 @@
+.logo {
+    width: 90px;
+}
+
+nav.navbar {
+    background: #ffffff !important;
+}
+
+.banner {
+    background: #f9f9ff !important;
+}
+
+.banner-button {
+    background: #8490ff;
+    color: #fff;
+}
+
+.progress-bar-section {
+    background: #8490ff;
+    padding: 120px 0 !important;
+}
+
+.progress-bar-section h2 {
+    color: #fff;
+    font-weight: 700;
+}
+
+.progress-bar-section p {
+    color: #fff;
+}
+
+.box-1 {
+    box-shadow: 2px 3px 10px rgba(68, 121, 182, 0.486);
+}
+
+.box-1 h3 {
+    font-weight: 400;
+    padding: 25px 0;
+}
+
+.box-1 h6 {
+    margin-bottom: 25px ;
+}
+
+.team-section .box-style img {
+    width: 35%;
+    position: relative;
+    margin-top: -50px;
+    top: -15px;
+    left: -75px;
+}
+
+.contact-button-design {
+    position: relative;
+    margin-left: 40%;
+    background: #17a2b8;
+    color: #fff;
+}
+
+.contact-box-2  {
+    margin: 10%;
+}
+
+
